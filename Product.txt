@@ -1,0 +1,11 @@
+Sports:
+	Cricket Ball
+	Cricket Bat
+	Football
+	Batmitten
+Cloths:
+	Jeans
+	Formal Pants
+	Casual Pantd
+	Casual Shirts
+	Tee Shirts
