@@ -11,3 +11,4 @@ Cloths:
 	Tee Shirts
 Toys:
 	Dedy beer
+	Micky Mouse
