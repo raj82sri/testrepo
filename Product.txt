@@ -12,3 +12,5 @@ Cloths:
 Toys:
 	Dedy beer
 	Micky Mouse
+	Fish
+	Monkey
