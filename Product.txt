@@ -9,3 +9,5 @@ Cloths:
 	Casual Pantd
 	Casual Shirts
 	Tee Shirts
+Toys:
+	Dedy beer
