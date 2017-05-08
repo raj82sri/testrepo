@@ -3,6 +3,8 @@ Sports:
 	Cricket Bat
 	Football
 	Batmitten
+	Tennis ball
+	Volley ball
 Cloths:
 	Jeans
 	Formal Pants
@@ -14,3 +16,4 @@ Toys:
 	Micky Mouse
 	Fish
 	Monkey
+	
